@@ -25,7 +25,7 @@ name = "About_11111"
 weight = 2
 [[menu.main]]
 URL = "/"
-name = "Home"
+name = "Boris_Home"
 weight = 1
 [outputs]
 home = ["HTML", "RSS", "json"]
