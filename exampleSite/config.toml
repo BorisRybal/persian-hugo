@@ -30,10 +30,10 @@ weight = 1
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]
-author = "Themefisher"
+author = "Brav"
 contact_form_action = "#"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-description = "This is meta description"
+copyright = "Brav"
+description = "En travaux-This is meta description"
 logo = "images/logo.png"
 search = true
 [params.cookies]
