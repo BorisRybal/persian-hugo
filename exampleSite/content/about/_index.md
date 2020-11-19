@@ -1,5 +1,5 @@
 ---
-title: I'm a FreelanNNNce BLABLALLL Interactive Art Director Based In France. Focusing
+title: EN TRAVAUX :I'm a FreelanNNNce BLABLALLL Interactive Art Director Based In France. Focusing
   Accross Branding And Identity
 image: images/author.jpg
 description: This is meta description.
