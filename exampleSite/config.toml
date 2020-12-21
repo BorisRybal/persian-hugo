@@ -21,11 +21,11 @@ name = "Category"
 weight = 3
 [[menu.main]]
 URL = "about"
-name = "About_11111"
+name = "About_EN_TRAVAUX"
 weight = 2
 [[menu.main]]
 URL = "/"
-name = "Boris_Essai_Home"
+name = "Boris_EN_TRAVAUX"
 weight = 1
 [outputs]
 home = ["HTML", "RSS", "json"]
@@ -33,7 +33,7 @@ home = ["HTML", "RSS", "json"]
 author = "Brav"
 contact_form_action = "#"
 copyright = "Brav"
-description = "En travaux-This is meta description"
+description = "En travaux-EN_TRAVAUX"
 logo = "images/logo.png"
 search = true
 [params.cookies]
