@@ -1,7 +1,7 @@
 ---
 title: BR
 image: ''
-email: johndoe@parsian.com
+email: borisrybal@gmail.com
 social:
 - icon: ti-facebook
   link: "#"
