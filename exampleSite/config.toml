@@ -32,7 +32,7 @@ home = ["HTML", "RSS", "json"]
 [params]
 author = "Brav"
 contact_form_action = "#"
-copyright = "Bâtir Respect Autres Vivants"
+copyright = "Bâtir - Respect - Autres - Vivants"
 description = "En travaux"
 logo = "images/logo.png"
 search = true
