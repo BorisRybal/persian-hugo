@@ -4,7 +4,7 @@ languageCode = "fr-FR"
 languageName = "fr"
 paginate = "5"
 theme = "persian"
-title = "Brav"
+title = "Boris Rybaltchenko Architecture Vivante"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
