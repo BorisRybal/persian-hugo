@@ -8,25 +8,25 @@ title = "Brav"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-URL = "Agence"
-name = "Privacy Policy"
-weight = 5
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
-[[menu.main]]
-URL = "categories/nature/"
-name = "Category"
-weight = 3
+URL = "/"
+name = "Actu"
+weight = 1
 [[menu.main]]
 URL = "about"
 name = "Qui?"
 weight = 2
 [[menu.main]]
-URL = "/"
-name = "Actu"
-weight = 1
+URL = "categories/nature/"
+name = "Projets"
+weight = 3
+[[menu.main]]
+URL = "Agence"
+name = "Agence"
+weight = 5
+[[menu.main]]
+URL = "contact"
+name = "Nous contacter"
+weight = 4
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]
