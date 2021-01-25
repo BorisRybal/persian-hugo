@@ -36,7 +36,7 @@ contact_form_action = "#"
 copyright = "Bâtir - Respect - Autres - Vivants"
 description = "En travaux"
 logo = "images/logo.png"
-search = true
+search = false
 [params.cookies]
 enable = true
 expire_days = 2
