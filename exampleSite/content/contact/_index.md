@@ -9,10 +9,10 @@ draft: false
 Nous recherchons des stagiaires pour une durée de 6 mois.
 
 
-Envoyez vos books à borisrybal@gmail.com 
+Envoyez vos books à <b>borisrybal@gmail.com </b>
 
 
-BRAV
+<b>BRAV</b>
 
 Boris Rybaltchenko Architecture Vivante
 
