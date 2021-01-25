@@ -4,7 +4,7 @@ languageCode = "fr-FR"
 languageName = "fr"
 paginate = "5"
 theme = "persian"
-title = "Boris Rybaltchenko Architecture Vivante"
+title = "Boris Rybaltchenko - Architecture Vivante"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
@@ -23,6 +23,10 @@ weight = 3
 URL = "Agence"
 name = "Agence"
 weight = 5
+[[menu.main]]
+URL = "contact"
+name = "Nous contacter"
+weight = 4
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]
