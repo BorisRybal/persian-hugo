@@ -8,6 +8,11 @@ title = "Boris Rybaltchenko - Architecture Vivante"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
+URL = "contact"
+name = "Nous contacter"
+url = "contact"
+weight = 4
+[[menu.main]]
 URL = "/"
 name = "Actu"
 weight = 1
@@ -23,10 +28,6 @@ weight = 3
 URL = "Agence"
 name = "Agence"
 weight = 5
-[[menu.main]]
-URL = "contact"
-name = "Nous contacter"
-weight = 4
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]
