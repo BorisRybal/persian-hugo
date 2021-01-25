@@ -8,7 +8,7 @@ title = "Brav"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-URL = "privacy-policy"
+URL = "Agence"
 name = "Privacy Policy"
 weight = 5
 [[menu.main]]
@@ -21,11 +21,11 @@ name = "Category"
 weight = 3
 [[menu.main]]
 URL = "about"
-name = "About_EN_TRAVAUX"
+name = "Qui?"
 weight = 2
 [[menu.main]]
 URL = "/"
-name = "Boris_EN_TRAVAUX"
+name = "Actu"
 weight = 1
 [outputs]
 home = ["HTML", "RSS", "json"]
@@ -33,7 +33,7 @@ home = ["HTML", "RSS", "json"]
 author = "Brav"
 contact_form_action = "#"
 copyright = "Brav"
-description = "En travaux-EN_TRAVAUX"
+description = "En travaux"
 logo = "images/logo.png"
 search = true
 [params.cookies]
