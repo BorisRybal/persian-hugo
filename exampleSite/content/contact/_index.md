@@ -1,16 +1,18 @@
 ---
 title: Pour nous contacter
-description: TNous recherchons des stagiaires pour une durée de 6 mois.
+description: Nous recherchons des stagiaires pour une durée de 6 mois.
 draft: false
 
 ---
 
 
+Nous recherchons des stagiaires pour une durée de 6 mois.
 
-Envoyez vos books à <b>borisrybal@gmail.com </b>
+
+Envoyez vos books à borisrybal@gmail.com 
 
 
-<b>BRAV</b>
+BRAV
 
 Boris Rybaltchenko Architecture Vivante
 
