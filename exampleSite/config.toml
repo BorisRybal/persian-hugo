@@ -13,7 +13,7 @@ name = "Actu"
 weight = 1
 [[menu.main]]
 URL = "about"
-name = "Qui?"
+name = "Vivants"
 weight = 2
 [[menu.main]]
 URL = "categories/nature/"
