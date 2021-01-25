@@ -23,10 +23,6 @@ weight = 3
 URL = "Agence"
 name = "Agence"
 weight = 5
-[[menu.main]]
-URL = "contact"
-name = "Nous contacter"
-weight = 4
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]
