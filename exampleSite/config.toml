@@ -31,7 +31,7 @@ weight = 5
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]
-author = "Brav"
+author = "BRAV - Boris Rybaltchenko Architecture Vivante"
 contact_form_action = "#"
 copyright = "<b>B</b>âtir - <b>R</b>espect - <b>A</b>utre - <b>V</b>ivants"
 description = "En travaux"
