@@ -33,7 +33,7 @@ home = ["HTML", "RSS", "json"]
 [params]
 author = "Brav"
 contact_form_action = "#"
-copyright = "Bâtir - Respect - Autre - Vivants"
+copyright = "<b>B</b>âtir - <b>R</b>espect - <b>A</b>utre - <b>V</b>ivants"
 description = "En travaux"
 logo = "images/logo.png"
 search = false
