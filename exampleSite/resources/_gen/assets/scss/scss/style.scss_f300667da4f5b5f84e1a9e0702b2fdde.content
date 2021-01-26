@@ -10,10 +10,10 @@ AUTHOR: Themefisher-BORIS
 [TABLE OF CONTENTS]
 -------------------------------------------------------------------*/
 /*  typography */
-@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500&display=swap");
+
 body {
   line-height: 1.2;
-  font-family: "Helvetica, Arial", sans-serif;
+  font-family: "Arial", sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 16px;
   color: #555; }
