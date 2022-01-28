@@ -25,7 +25,7 @@ URL = "categories/nature/"
 name = "Projets"
 weight = 3
 [[menu.main]]
-URL = "Agence"
+URL = "author"
 name = "Agence"
 weight = 5
 [outputs]
