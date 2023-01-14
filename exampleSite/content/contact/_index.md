@@ -1,11 +1,11 @@
 ---
 title: Pour nous contacter
-description: Nous recherchons des stagiaires pour une durée de 6 mois.
+description: Vous avez un projet?
 
 ---
-Nous recherchons des stagiaires pour une durée de 6 mois.
 
-Envoyez vos books à **borisrybal@gmail.com**
+
+ **borisrybal@gmail.com**
 </br>
 </br>
 </br>
