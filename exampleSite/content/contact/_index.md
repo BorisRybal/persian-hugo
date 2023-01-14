@@ -1,8 +1,8 @@
 ---
 title: Pour nous contacter
 description: Vous avez un projet?
-Extensions / Surélévations / Rénovation énergétique / Construction bioclimatique
 ---
+Extension / Surélévation / Rénovation énergétique / Construction bioclimatique
 **borisrybal@gmail.com**
 </br>
 </br>
