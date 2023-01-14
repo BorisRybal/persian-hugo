@@ -17,12 +17,12 @@ URL = "/"
 name = "Nos valeurs"
 weight = 1
 [[menu.main]]
-URL = "about"
-name = "Solutions Bioclimatiques"
-weight = 2
-[[menu.main]]
 URL = "categories/nature/"
 name = "Votre Projet"
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "Solutions Bioclimatiques"
 weight = 3
 [[menu.main]]
 URL = "author"
