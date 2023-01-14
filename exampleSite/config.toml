@@ -4,7 +4,7 @@ languageCode = "fr-FR"
 languageName = "fr"
 paginate = "5"
 theme = "persian"
-title = "Boris Rybaltchenko - Architecture Vivante"
+title = "Boris Rybaltchenko - Architecte"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
@@ -31,9 +31,9 @@ weight = 5
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]
-author = "BRAV - Boris Rybaltchenko Architecture Vivante"
+author = "BRAV - Boris Rybaltchenko Architecte"
 contact_form_action = "#"
-copyright = "<b>B</b>âtir - <b>R</b>espect - <b>A</b>utre - <b>V</b>ivants"
+copyright = "<b>B</b>âtir - <b>R</b>enover - <b>A</b>vec le - <b>V</b>ivant"
 description = "En travaux"
 logo = "images/logo.png"
 search = false
