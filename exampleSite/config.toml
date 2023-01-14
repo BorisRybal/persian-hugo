@@ -14,19 +14,19 @@ url = "contact"
 weight = 4
 [[menu.main]]
 URL = "/"
-name = "Actu"
+name = "Nos valeurs"
 weight = 1
 [[menu.main]]
 URL = "about"
-name = "Vivants"
+name = "Solutions Bioclimatiques"
 weight = 2
 [[menu.main]]
 URL = "categories/nature/"
-name = "Projets"
+name = "Votre Projet"
 weight = 3
 [[menu.main]]
 URL = "author"
-name = "Agence"
+name = "Brav"
 weight = 5
 [outputs]
 home = ["HTML", "RSS", "json"]
