@@ -33,7 +33,7 @@ home = ["HTML", "RSS", "json"]
 [params]
 author = "Boris Rybaltchenko Architecte"
 contact_form_action = "#"
-copyright = "Extension / Surélévation / Rénovation énergétique / Construction bioclimatique<br><br><br><b>B</b>âtir - <b>R</b>enover - <b>A</b>vec le - <b>V</b>ivant"
+copyright = "Extension / Surélévation / Rénovation énergétique / Construction bioclimatique<br><br><br><b>B</b>âtir - <b>R</b>enover - <b>A</b>vec - le <b>V</b>ivant"
 description = "En travaux"
 logo = "images/logo.png"
 search = false
