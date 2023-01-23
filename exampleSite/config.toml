@@ -18,7 +18,7 @@ name = "Nos valeurs"
 weight = 1
 [[menu.main]]
 URL = "categories/nature/"
-name = "Votre Projet"
+name = "Projets"
 weight = 2
 [[menu.main]]
 URL = "about"
