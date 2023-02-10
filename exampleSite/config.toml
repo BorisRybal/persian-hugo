@@ -17,11 +17,11 @@ URL = "/"
 name = "Nos valeurs"
 weight = 1
 [[menu.main]]
-URL = "categories/nature/"
+URL = "/"
 name = "Projets"
 weight = 2
 [[menu.main]]
-URL = "about"
+URL = "/"
 name = "Solutions Bioclimatiques"
 weight = 3
 [[menu.main]]
@@ -33,7 +33,7 @@ home = ["HTML", "RSS", "json"]
 [params]
 author = "Boris Rybaltchenko Architecte"
 contact_form_action = "#"
-copyright = "Rénovation énergétique / Construction bioclimatique / Extension / Surélévation ...<br><br><br><b>B</b>âtir  -  <b>R</b>énover  -  <b>A</b>vec  -  le <b>V</b>ivant"
+copyright = "Rénovation énergétique / Construction bioclimatique / Extension / Surélévation <br><br><br><b>B</b>âtir  -  <b>R</b>énover  -  <b>A</b>vec  -  le <b>V</b>ivant"
 description = "En travaux"
 logo = "images/logo.png"
 search = false
