@@ -33,7 +33,7 @@ home = ["HTML", "RSS", "json"]
 [params]
 author = "Boris Rybaltchenko Architecte"
 contact_form_action = "#"
-copyright = "Rénovations énergétiques / Constructions bioclimatiques / Extensions / Surélévations <br><br><br><b>B</b>âtir  -  <b>R</b>énover  -  <b>A</b>vec  -  le <b>V</b>ivant<br>"
+copyright = "Rénovations énergétiques / Constructions bioclimatiques / Extensions / Surélévations <br><br><br> Audit énergétiques<br>  DTG (copropriétés de moins de 50 lots)<br><br><b>B</b>âtir  -  <b>R</b>énover  -  <b>A</b>vec  -  le <b>V</b>ivant<br>"
 description = "En travaux"
 logo = "images/logo.png"
 search = false
