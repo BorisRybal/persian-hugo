@@ -1,16 +1,16 @@
 ---
-title: Pour nous contacter
+title: Pour nous contacter par mail
 description: Vous avez un projet?
 ---
 </br>
 </br>
-**borisrybal@gmail.com**
+** borisrybal@gmail.com **
 </br>
 </br>
 </br>
 </br>
 </br>
-**BRAV**
+** <b>BRAV</b> :   <b>B</b>âtir  -  <b>R</b>énover  -  <b>A</b>vec  -  le <b>V</b>ivant<br>**
 
 Boris Rybaltchenko Architecture Vivante
 
