@@ -4,7 +4,7 @@ description: Vous avez un projet?
 ---
 </br>
 </br>
-** borisrybal@gmail.com **
+** <b>borisrybal@gmail.com</b> **
 </br>
 </br>
 </br>
