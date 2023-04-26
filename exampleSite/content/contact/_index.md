@@ -10,7 +10,7 @@ description: Vous avez un projet?
 </br>
 </br>
 </br>
-** <b>BRAV</b> :   <b>B</b>âtir  -  <b>R</b>énover  -  <b>A</b>vec  -  le <b>V</b>ivant<br>**
+<b>BRAV</b> :   <b>B</b>âtir  -  <b>R</b>énover  -  <b>A</b>vec  -  le <b>V</b>ivant<br>
 
 Boris Rybaltchenko Architecture Vivante
 
