@@ -33,7 +33,7 @@ home = ["HTML", "RSS", "json"]
 [params]
 author = "Boris Rybaltchenko Architecte- Architecte énergéticien (DynaMOE1) - brav.fr"
 contact_form_action = "#"
-copyright = "Rénovations énergétiques / Constructions bioclimatiques / Extensions / Surélévations <br><br><br>Architecte énergéticien habilitation DynaMOE1<br> Audit énergétique / DTG (copropriétés de moins de 50 lots) / DAE (Diagnostic Architectural et Energétique)<br><br><br><br><b>B</b>âtir  -  <b>R</b>énover  -  <b>A</b>vec  -  le <b>V</b>ivant<br>"
+copyright = "Rénovations énergétiques / Constructions bioclimatiques / Extensions / Surélévations <br><br><br>Architecte énergéticien habilitation DynaMOE1<br> Audit énergétique / DTG / DAE (Diagnostic Architectural et Energétique)<br><br><br><br><b>B</b>âtir  -  <b>R</b>énover  -  <b>A</b>vec  -  le <b>V</b>ivant<br>"
 description = "En travaux"
 logo = "images/logo.png"
 search = false
