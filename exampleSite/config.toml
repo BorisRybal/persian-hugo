@@ -4,7 +4,7 @@ languageCode = "fr-FR"
 languageName = "fr"
 paginate = "5"
 theme = "persian"
-title = "Boris Rybaltchenko - Architecte énergéticien - brav.fr"
+title = "Boris Rybaltchenko - Architecte énergéticien - BRAV = Bâtir Rénover Avec le Vivant - brav.fr"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
@@ -22,7 +22,7 @@ name = "Projets"
 weight = 2
 [[menu.main]]
 URL = "/"
-name = "Solutions Bioclimatiques"
+name = "Optimisations Bioclimatiques"
 weight = 3
 [[menu.main]]
 URL = "/"
