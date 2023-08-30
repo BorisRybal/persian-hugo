@@ -22,7 +22,7 @@ name = "Projets"
 weight = 2
 [[menu.main]]
 URL = "/"
-name = "Optimisations Bioclimatiques"
+name = "Optimisation Bioclimatique"
 weight = 3
 [[menu.main]]
 URL = "/"
