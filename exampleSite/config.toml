@@ -33,7 +33,7 @@ home = ["HTML", "RSS", "json"]
 [params]
 author = "Boris Rybaltchenko Architecte- Architecte énergéticien - brav.fr"
 contact_form_action = "#"
-copyright = "Rénovations énergétiques / Constructions bioclimatiques / Extensions / Surélévations <br><br><br>Architecte énergéticien <br> Concepteur de bâtiments passifs (Ceph)<br>{{<a href="https://cms.passivehouse.com/en/training/directory/designers/detail/p19307"target="_blank">}}Certification Passive House Institute{{</a>}}<br>Audit énergétique / DTG / DAE (Diagnostic Architectural et Energétique)<br><br><br><br><b>B</b>âtir  -  <b>R</b>énover  -  <b>A</b>vec  -  le <b>V</b>ivant<br>"
+copyright = "<br><br><br><br><b>B</b>âtir  -  <b>R</b>énover  -  <b>A</b>vec  -  le <b>V</b>ivant<br>"
 description = "En travaux"
 logo = "images/logo.png"
 search = false
