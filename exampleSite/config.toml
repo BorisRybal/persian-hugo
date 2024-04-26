@@ -34,7 +34,7 @@ home = ["HTML", "RSS", "json"]
 author = "Boris Rybaltchenko Architecte- Architecte énergéticien - brav.fr"
 contact_form_action = "#"
 copyright = "<br><br><br><br><b>B</b>âtir  -  <b>R</b>énover  -  <b>A</b>vec  -  le <b>V</b>ivant<br>"
-description = "En travaux"
+description = "brav.fr,Boris Rybaltchenko Architecte- Architecte énergéticien, bâtir, rénover, réhabiliter, avec, le vivant, écorénovation, paille, pro-paille, construire en chanvre, cenc"
 logo = "images/logo.png"
 search = false
 [params.cookies]
