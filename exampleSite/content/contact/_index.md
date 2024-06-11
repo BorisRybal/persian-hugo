@@ -1,10 +1,11 @@
 ---
-title: Pour nous contacter par mail
-description: Vous avez un projet?
+title: Vous avez un projet?
+description: Pour nous contacter par mail
 ---
 </br>
 </br>
 ** <b>b.rybaltchenko@brav.fr</b> **
+** <b> 06 60 94 60 64 </b> **
 </br>
 </br>
 </br>
@@ -17,3 +18,4 @@ Boris Rybaltchenko Architecture Vivante
 198 rue marcadet
 
 75018 PARIS
+
