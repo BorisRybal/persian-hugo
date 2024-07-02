@@ -11,7 +11,6 @@ description: Pour nous contacter par mail
 </br>
 </br>
 </br>
-</br>
 <b>BRAV</b> :   <b>B</b>âtir  -  <b>R</b>énover  -  <b>A</b>vec  -  le <b>V</b>ivant<br><br>
 
 Boris Rybaltchenko Architecture Vivante
@@ -19,6 +18,7 @@ Boris Rybaltchenko Architecture Vivante
 198 rue marcadet
 
 75018 PARIS
+</br>
+</br>
 
-
-<b>Compatibilités numériques : </b> </br> Archicad 27 - Grasshopper - Qgis - Pleiades - Phpp - Sketchup Pro </br> OpenBim - MacOs//Paralells 
+<b>Compatibilités numériques : </b> </br> Archicad 27 - Grasshopper - Qgis - Pleiades - Phpp - Sketchup Pro </br> Twinmotion - Inkscape - Gimp</br> OpenBim - MacOs//Paralells </br>
