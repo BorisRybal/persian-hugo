@@ -21,4 +21,4 @@ Boris Rybaltchenko Architecture Vivante
 75018 PARIS
 
 
-<b>Compatibilités numériques : </b> </br>( Archicad 27 - Grasshopper - Qgis - Pleiades - Phpp - Sketchup Pro - MacOs//Paralells )
+<b>Compatibilités numériques : </b> </br> Archicad 27 - Grasshopper - Qgis - Pleiades - Phpp - Sketchup Pro </br> OpenBim - MacOs//Paralells 
