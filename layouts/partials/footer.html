@@ -13,7 +13,6 @@
 </script>
 {{ end }}
 
-
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range .Site.Params.plugins.js}}
 <script src="{{ .link | absURL }}"></script>
