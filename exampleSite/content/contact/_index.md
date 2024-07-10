@@ -1,12 +1,12 @@
 ---
-title: La conception est essentielle ...
+title: La conception est essentielle
 description: Pour nous contacter par mail
 ---
 </br>
 </br>
-** <b>b.rybaltchenko@brav.fr</b> **
+<b>b.rybaltchenko@brav.fr</b>
 </br>
-** <b> 06 60 94 60 64 </b> **
+<b> 06 60 94 60 64 </b>
 </br>
 </br>
 </br>
