@@ -1,5 +1,5 @@
 ---
-title: Echangeons au sujet de votre projet :
+title: Echangeons au sujet de votre projet
 description: Pour nous contacter par mail
 ---
 </br>
