@@ -16,7 +16,6 @@ description: Pour nous contacter par mail
 Boris Rybaltchenko Architecture Vivante
 
 198 rue marcadet
-
 75018 PARIS
 </br>
 </br>
