@@ -21,4 +21,4 @@ Boris Rybaltchenko Architecture Vivante
 </br>
 </br>
 
-<b>Compatibilités numériques : </b> </br> Archicad 27 - Grasshopper - Qgis - Pleiades - Phpp - Sketchup Pro </br> Twinmotion </br> OpenBim - MacOs//Paralells </br>
+<b>Compatibilités numériques : </b> </br> Archicad 27 - Grasshopper - Rhino - Qgis - Pleiades - Phpp - Sketchup Pro </br> Twinmotion </br> OpenBim - MacOs//Paralells </br>
