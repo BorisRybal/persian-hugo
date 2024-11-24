@@ -21,4 +21,5 @@ Boris Rybaltchenko Architecture Vivante
 </br>
 </br>
 </br>
+</br>
 <b>Collaborations : </b> </br> OpenBim - Archicad - Grasshopper - Rhino - Qgis - Pleiades - Phpp - DesignPH - SketchupPro - Twinmotion</br>
