@@ -1,5 +1,5 @@
 ---
-title: Echangeons au sujet de votre projet
+title: Et si on échangeait?
 description: Pour nous contacter par mail
 ---
 </br>
@@ -22,5 +22,5 @@ Boris Rybaltchenko Architecture Vivante
 </br>
 </br>
 </br>
-<i><b>Collaborations : </b> </br> OpenBim - Archicad - Grasshopper - Rhino - Qgis - Pleiades - Phpp - DesignPH - SketchupPro - Twinmotion</br>
+<i><b>Collaborons : </b> </br> OpenBim - Archicad - Grasshopper - Rhino - Qgis - Pleiades - Phpp - DesignPH - SketchupPro - Twinmotion</br>
 </i>
