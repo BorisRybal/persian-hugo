@@ -11,7 +11,7 @@ description: Pour nous contacter par mail
 </br>
 </br>
 </br>
-<b>BRAV</b> :   <b>B</b>âtir  -  <b>R</b>énover  -  <b>A</b>vec  -  le <b>V</b>ivant<br><br>
+<b>BRAV</b> <br> <br><b>B</b>âtir  -  <b>R</b>énover  -  <b>A</b>vec  -  le <b>V</b>ivant<br><br>
 
 Boris Rybaltchenko Architecture Vivante
 
