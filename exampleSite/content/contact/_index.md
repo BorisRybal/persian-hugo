@@ -1,8 +1,7 @@
 ---
-title: Et si on échangeait?
-description: Pour nous contacter par mail
+title:
+description:
 ---
-</br>
 </br>
 <b>b.rybaltchenko@brav.fr</b>
 </br>
