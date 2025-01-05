@@ -9,7 +9,7 @@ title = "Boris Rybaltchenko - Architecte énergéticien hmonp - BRAV = Bâtir R�
 unsafe = true
 [[menu.main]]
 URL = "contact"
-name = "Nous contacter"
+name = "Contact"
 url = "contact"
 weight = 5
 [[menu.main]]
