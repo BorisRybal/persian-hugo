@@ -14,7 +14,7 @@ Paris - Finistère
 
 Boris Rybaltchenko Architecture Vivante
 
-<span style="color: rgb(135, 135, 135);" data-mce-style="color: #878787;">198 rue marcadet 75018 Paris&nbsp; </span>
+<span style="color: rgb(135, 135, 135);" data-mce-style="color: #878787;">198 rue marcadet 75018 Paris&nbsp;</span>
 <span style="color: rgb(135, 135, 135);" data-mce-style="color: #878787;"></br>b.rybaltchenko@brav.fr</span>
 </br>
 </br>
