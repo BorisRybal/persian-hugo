@@ -18,7 +18,6 @@ name = "Nos valeurs"
 weight = 1
 [[menu.main]]
 URL = "/"
-
 [[menu.main]]
 URL = "/"
 name = "Conception Bioclimatique"
